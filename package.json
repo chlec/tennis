@@ -1,0 +1,23 @@
+{
+  "name": "tennis",
+  "version": "1.0.0",
+  "description": "Une petit script pour reserver un petit tennis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chlec/tennis.git"
+  },
+  "author": "Charles Lecalier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chlec/tennis/issues"
+  },
+  "homepage": "https://github.com/chlec/tennis#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "nightmare": "^3.0.1"
+  }
+}
