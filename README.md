@@ -1,4 +1,4 @@
-# Tennis v1
+# Tennis Beta
 
 Petit script permettant de réserver le tennis de notre choix sur tennis.paris.fr.
 
